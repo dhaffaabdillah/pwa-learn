@@ -8,4 +8,5 @@ Requirement:
 1. Install Node JS for using NPM
 2. Prepare the API 
 3. Install your WebServer, recommended using Chrome browser.
-4. Start to code.
+4. Register your Firebase Account to hosting.
+5. Start to code.
